@@ -1,6 +1,6 @@
 # ✨🚀𝑱𝒂𝒑𝒂𝒏 𝒗𝒔 𝑪𝒉𝒊𝒏𝒂 𝑻𝒆𝒄𝒉 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒎𝒆𝒏𝒕𝒔 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔🌐⭐
 
-<img src=''>
+<img src='japanvschina.jpg'>
 
 This project provides a comprehensive analysis of technological advancements in Japan and China using SQL.
 
