@@ -25,6 +25,28 @@ The dataset includes detailed information on the tech sectors of China and Japan
   - China had its highest number of patents in 2001, with 150,297 patents.
   - Japan's peak was in 2015, with 159,578 patents.
   - By 2023, China had 132,645 patents, while Japan had 96,788.
+- **Venture Capital Funding**:
+  - China saw the highest venture capital funding in 2009, while the lowest was in 2010. In Japan, the peak was in 2021, and again the lowest was in 2010. This shows how investment trends can change significantly year by year.
+- **Robotics Market Share**:
+  - Robotics has consistently held the highest market share in both countries over the years, with totals of 2,192.54 in China and 2,170.87 in Japan. This suggests strong growth and investment in robotics technology.
+- **Internet Penetration**:
+  - China had its highest internet penetration rate in 2013 at 74.88%. However, this rate decreased over the years, dropping to 65.59% in 2023, with the lowest point being 64.63% in 2020. In Japan, the highest rate was 75.21% in 2006, but it fell to 69.27% in 2023, also with the lowest in 2020 at 63.38%. The decline in both countries' internet rates in 2020 could be due to the impacts of the COVID-19 pandemic.
+- **Tech Workers**:
+  - China has a larger number of tech workers in the software sector compared to Japan, which is important for driving innovation and growth.
+- **Global Innovation Ranks**:
+  - China has a larger number of tech workers in the software sector compared to Japan, which is important for driving innovation and growth.
+- **Startups Growth**:
+  - The growth in the number of startups over the years is higher in Japan, with an increase of 27, compared to 10 in China.
+- **Patents**:
+  - The top five tech sectors with the highest average number of patents in Japan are cloud computing (9,989), robotics (9,988), and biotechnology (9,979.75). In China, the top sectors are AI (9,984.33) and biotechnology (9,975.20).
+- **R&D Growth**:
+  - China had its highest R&D growth percentage in 2017 at 92.75%, but the lowest was in 2012 at -49.32%. In 2023, the growth was 8.13% compared to 2022. For Japan, the peak was in 2021 at 91.56%, while the lowest was in 2005 at -52.79%. In 2023, Japan's growth was -24.82% compared to 2022.
+- **Tech Employment**:
+  - The average internet penetration in China is 70.24%, while in Japan it is 69.24%. China's average 5G network coverage is 49.61%, while Japan’s is slightly higher at 50.33%. The total number of tech workers in China is 247,878,412, while in Japan it is 248,604,999. The top three sectors that employ the most workers in Japan are semiconductors, telecommunications, and biotechnology. In China, the top sectors are cloud computing, telecommunications, and AI.
+- **Startups and Companies**:
+  - China has a total of 131,486 startups compared to Japan's 126,038. The number of tech companies in China is 515,860, while in Japan it is 495,273. This indicates that China has more tech companies and startups than Japan.
+- **University Research Collaborations**:
+  - China has 48,148 university research collaborations, while Japan has a higher number at 50,936.
 
 ## 💻 **Technologies Used**
 
