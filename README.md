@@ -1,8 +1,8 @@
 # ✨🚀𝑱𝒂𝒑𝒂𝒏 𝒗𝒔 𝑪𝒉𝒊𝒏𝒂 𝑻𝒆𝒄𝒉 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒎𝒆𝒏𝒕𝒔 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔🌐⭐
 
-<img src='japanvschina.jpg'>
-
 This project provides a comprehensive analysis of technological advancements in Japan and China using SQL.
+
+<img src='japanvschina.jpg'>
 
 ## 📊 **Dataset Overview**
 The dataset includes detailed information on the tech sectors of China and Japan across different years from 2000 to 2023 containing 1000 rows and columns such as:
