@@ -47,6 +47,11 @@ The dataset includes detailed information on the tech sectors of China and Japan
   - China has a total of 131,486 startups compared to Japan's 126,038. The number of tech companies in China is 515,860, while in Japan it is 495,273. This indicates that China has more tech companies and startups than Japan.
 - **University Research Collaborations**:
   - China has 48,148 university research collaborations, while Japan has a higher number at 50,936.
+- **tech exports**:
+  - The total value of tech exports from China is 49,148,911,623,777.41 (49.1 trillion) USD, while in Japan, it’s 49,903,882,818,907.95 (49.9 trillion) USD.
+
+## 💻 **Summary**
+- both countries are strong in different tech areas. China leads in telecommunications and robotics, while Japan excels in software and semiconductors. Their investments in R&D, patent numbers, and export values highlight their key roles in driving technological advancements in Asia.
 
 ## 💻 **Technologies Used**
 
