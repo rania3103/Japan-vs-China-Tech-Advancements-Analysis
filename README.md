@@ -19,6 +19,12 @@ The dataset includes detailed information on the tech sectors of China and Japan
   - In 2022, China’s investment grew again by 496,940,582,657.79 USD compared to 2021, while Japan’s investment decreased by 221,601,807,306.60 USD. Despite the ups and downs, both countries invested a lot during the COVID-19 pandemic.
 - **Peak in 2023**:
   - In 2023, China continued to grow, reaching its highest investment at 1,322,371,287,257.64 USD, surpassing Japan, which invested 912,226,526,415.36 USD. This could be because China offers more affordable products that many people need nowadays, like clothing, appliances (e.g., Shein, Temu) and cars.
+- **Tech sector and patents**:
+  - In China, the biggest tech areas by market share are telecommunications and robotics. Major companies like Huawei and DJI lead in these fields. This might explain why companies like Apple depend on China for making their products, due to the strong support in these areas. Software is the smallest market sector in China.
+  - In Japan, the top two tech areas by market share are software and semiconductors. Big companies like Sony and Renesas Electronics do well in these sectors. Nintendo also does well in the software market, especially in gaming. Meanwhile, AI has the smallest market share in Japan.
+  - China had its highest number of patents in 2001, with 150,297 patents.
+  - Japan's peak was in 2015, with 159,578 patents.
+  - By 2023, China had 132,645 patents, while Japan had 96,788.
 
 ## 💻 **Technologies Used**
 
