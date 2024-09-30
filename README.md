@@ -12,6 +12,8 @@ The dataset includes detailed information on the tech sectors of China and Japan
 
 
 ## 💻 **Technologies Used**
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 - **SQL** for analysis
 
 ## 🛠️ **SQL Features Utilized**
